@@ -1,0 +1,5 @@
+server:
+  origin: https://nestjs-task-management-2020.s3-sa-east-1.amazonaws.com
+
+db:
+  synchronize: false
